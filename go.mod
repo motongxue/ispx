@@ -7,6 +7,7 @@ require (
 	github.com/goplus/igop v0.21.0
 	github.com/goplus/reflectx v1.2.1
 	github.com/goplus/spx v1.0.0-rc3.0.20240113073316-b7ce7e12506b
+	golang.org/x/exp/shiny v0.0.0-20240119083558-1b970713d09a // indirect
 	golang.org/x/oauth2 v0.16.0
 )
 
