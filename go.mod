@@ -6,7 +6,7 @@ require (
 	github.com/google/go-github/v41 v41.0.0
 	github.com/goplus/igop v0.21.0
 	github.com/goplus/reflectx v1.2.1
-	github.com/goplus/spx v1.0.0-rc6
+	github.com/goplus/spx v1.0.0-rc3.0.20240113073316-b7ce7e12506b
 	golang.org/x/oauth2 v0.0.0-20180821212333-d2e6202438be
 )
 
